@@ -37,4 +37,4 @@ All code was written by me except for imported libraries
 
 ### Other
 
-You can find a working online example hostend with Netlify, Heroku, and Mongodb Atlas [here](https://answerme.netlify.app/ "Live Example").
+You can find a working online example hosted with Netlify, Heroku, and Mongodb Atlas [here](https://answerme.netlify.app/ "Live Example").
